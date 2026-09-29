@@ -412,3 +412,12 @@ Issues, pull requests, and real-world diagrams are welcome. Start with the [cont
 ## Star History
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-dark.svg" /><img alt="Star History" src="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-light.svg" /></picture></p>
+
+## Pelagion source baseline
+
+[`.pelagion-src-version`](.pelagion-src-version) records the initial source baseline for
+`feat/init-pelagion-takeover`. It identifies the original upstream and the Pelagion
+fork by repository name and ID. It records their main/master branch commit hashes,
+commit timestamps, tags and declared versions where available. The fork commit is
+the exact base of the initial feature branch. This is a fixed provenance record;
+it does not update automatically when branches advance. Git history preserves it.
